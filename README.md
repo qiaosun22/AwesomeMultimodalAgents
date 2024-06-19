@@ -1,6 +1,16 @@
 # AwesomeMultimodalAgents
 This is a repository for easier keeping abreast of the most cutting-edge LLM-based Multimodality and Inteligent Agents.
 
+# Definition & Distinguish
+
+## Multimodal LLM
+
+
+## Multimodal Agents
+
+## Embodied Agents
+These models are required to have 3D understanding and navigation ability (as "body" is in the 3D space), and better sequential decision surpport.    
+
 # Survey Papers
 A Survey on Large Language Model based Autonomous Agents
 
